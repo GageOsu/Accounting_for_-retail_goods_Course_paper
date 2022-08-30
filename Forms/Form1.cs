@@ -10,11 +10,12 @@ using System.Windows.Forms;
 
 namespace Accounting_for__retail_goods
 {
-    public partial class Form1 : Form
+    public partial class Form_Osnova : Form
     {
-        public Form1()
+        public Form_Osnova()
         {
             InitializeComponent();
         }
+
     }
 }
